@@ -302,7 +302,7 @@ python 07_export_for_powerbi.py
 **Sandhya Bharti**
 B.E. Computer Science — Chandigarh University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/sandhyabharti7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sandhyabharti7)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/sandhyabharti14)
 
 ---
